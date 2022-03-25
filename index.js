@@ -5,8 +5,8 @@ contracts = require('folia-contracts')
 const network = "homestead";
 const provider = ethers.getDefaultProvider(network, {
   infura: {
-    projectId: "8d5afab258824ba38b6eab8e3d4f213a",
-    projectSecret: "d997dacd7fad41d99badf155be6a934a"
+    projectId: "",
+    projectSecret: ""
   }
 });
 
